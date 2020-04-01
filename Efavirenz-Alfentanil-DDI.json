@@ -1113,7 +1113,7 @@
       "Name": "Kharasch 2012, Alfentanil IV alone",
       "Model": "4Comp",
       "ObservedData": [
-        "Kharasch 2012 - Alfenatil IV alone - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)"
+        "Kharasch 2012 - Alfentanil IV alone - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -1410,9 +1410,9 @@
               }
             },
             {
-              "Name": "Kharasch 2012 - Alfenatil IV alone - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)-Alfentanil-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Kharasch 2012 - Alfenatil IV alone - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)|Time",
-              "Y": "Kharasch 2012 - Alfenatil IV alone - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticMean",
+              "Name": "Kharasch 2012 - Alfentanil IV alone - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)-Alfentanil-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Kharasch 2012 - Alfentanil IV alone - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)|Time",
+              "Y": "Kharasch 2012 - Alfentanil IV alone - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticMean",
               "CurveOptions": {
                 "Color": "#00C000",
                 "LegendIndex": 2,
@@ -1430,7 +1430,9 @@
       "Name": "Kharasch 2012, Alfentanil PO alone",
       "Model": "4Comp",
       "ObservedData": [
-        "Kharasch 2012 - Alfenatil PO alone - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)"
+        "Kharasch 2012 - Alfentanil PO alone - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)",
+        "Kharasch 2012 - Alfentanil IV + efavirenz - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)",
+        "Kharasch 2012 - Alfentanil PO + efavirenz - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -1738,9 +1740,9 @@
               }
             },
             {
-              "Name": "Kharasch 2012 - Alfenatil PO alone - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)-Alfentanil-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Kharasch 2012 - Alfenatil PO alone - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)|Time",
-              "Y": "Kharasch 2012 - Alfenatil PO alone - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticMean",
+              "Name": "Kharasch 2012 - Alfentanil PO alone - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)-Alfentanil-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Kharasch 2012 - Alfentanil PO alone - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)|Time",
+              "Y": "Kharasch 2012 - Alfentanil PO alone - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticMean",
               "CurveOptions": {
                 "Color": "#00C000",
                 "LegendIndex": 2,
@@ -1758,8 +1760,8 @@
       "Name": "Kharasch 2012, Alfentanil + Efavirenz 600 mg OD",
       "Model": "4Comp",
       "ObservedData": [
-        "Kharasch 2012 - Alfenatil IV + efavirenz - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)",
-        "Kharasch 2012 - Alfenatil PO + efavirenz - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)"
+        "Kharasch 2012 - Alfentanil IV + efavirenz - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)",
+        "Kharasch 2012 - Alfentanil PO + efavirenz - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -2271,7 +2273,7 @@
               "GridLines": false,
               "Visible": true,
               "Min": 0.06693188,
-              "Max": 23.2661552,
+              "Max": 23.26616,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
@@ -2289,23 +2291,12 @@
               }
             },
             {
-              "Name": "Kharasch 2012 - Alfenatil IV + efavirenz - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)-Alfentanil-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Kharasch 2012 - Alfenatil IV + efavirenz - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)|Time",
-              "Y": "Kharasch 2012 - Alfenatil IV + efavirenz - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticMean",
+              "Name": "Kharasch 2012 - Alfentanil PO + efavirenz - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)-Alfentanil-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Kharasch 2012 - Alfentanil PO + efavirenz - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)|Time",
+              "Y": "Kharasch 2012 - Alfentanil PO + efavirenz - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticMean",
               "CurveOptions": {
                 "Color": "#00C000",
                 "LegendIndex": 2,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            },
-            {
-              "Name": "Kharasch 2012 - Alfenatil PO + efavirenz - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)-Alfentanil-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Kharasch 2012 - Alfenatil PO + efavirenz - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)|Time",
-              "Y": "Kharasch 2012 - Alfenatil PO + efavirenz - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticMean",
-              "CurveOptions": {
-                "Color": "#00C000",
-                "LegendIndex": 3,
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
@@ -2322,7 +2313,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "Min": 360.385162,
+              "Min": 360.3852,
               "Max": 368.2376,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
@@ -2336,7 +2327,7 @@
               "GridLines": false,
               "Visible": true,
               "Min": 0.002288857,
-              "Max": 65.0893555,
+              "Max": 65.08936,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
@@ -2350,27 +2341,16 @@
               "Y": "Kharasch 2012, Alfentanil + Efavirenz 600 mg OD|Organism|PeripheralVenousBlood|Alfentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#00C000",
-                "LegendIndex": 6
+                "LegendIndex": 5
               }
             },
             {
-              "Name": "Kharasch 2012 - Alfenatil IV + efavirenz - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)-Alfentanil-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Kharasch 2012 - Alfenatil IV + efavirenz - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)|Time",
-              "Y": "Kharasch 2012 - Alfenatil IV + efavirenz - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticMean",
+              "Name": "Kharasch 2012 - Alfentanil IV + efavirenz - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)-Alfentanil-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Kharasch 2012 - Alfentanil IV + efavirenz - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)|Time",
+              "Y": "Kharasch 2012 - Alfentanil IV + efavirenz - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticMean",
               "CurveOptions": {
                 "Color": "#00C000",
-                "LegendIndex": 4,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            },
-            {
-              "Name": "Kharasch 2012 - Alfenatil PO + efavirenz - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)-Alfentanil-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Kharasch 2012 - Alfenatil PO + efavirenz - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)|Time",
-              "Y": "Kharasch 2012 - Alfenatil PO + efavirenz - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticMean",
-              "CurveOptions": {
-                "Color": "#0000FF",
-                "LegendIndex": 5,
+                "LegendIndex": 6,
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
@@ -2396,7 +2376,7 @@
   ],
   "ObservedData": [
     {
-      "Name": "Kharasch 2012 - Alfenatil PO alone - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)",
+      "Name": "Kharasch 2012 - Alfentanil PO alone - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)",
       "ExtendedProperties": [
         {
           "Name": "DB Version",
@@ -2420,7 +2400,7 @@
         },
         {
           "Name": "Grouping",
-          "Value": "Alfenatil PO alone"
+          "Value": "Alfentanil PO alone"
         },
         {
           "Name": "Data type",
@@ -2479,7 +2459,7 @@
               "Name": "Var",
               "QuantityInfo": {
                 "Name": "Var",
-                "Path": "Kharasch 2012 - Alfenatil PO alone - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticStdDev"
+                "Path": "Kharasch 2012 - Alfentanil PO alone - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticStdDev"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -2512,7 +2492,7 @@
           ],
           "QuantityInfo": {
             "Name": "Avg",
-            "Path": "Kharasch 2012 - Alfenatil PO alone - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticMean"
+            "Path": "Kharasch 2012 - Alfentanil PO alone - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticMean"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -2547,7 +2527,7 @@
         "Name": "Time",
         "QuantityInfo": {
           "Name": "Time",
-          "Path": "Kharasch 2012 - Alfenatil PO alone - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)|Time",
+          "Path": "Kharasch 2012 - Alfentanil PO alone - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -2579,7 +2559,7 @@
       }
     },
     {
-      "Name": "Kharasch 2012 - Alfenatil PO + efavirenz - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)",
+      "Name": "Kharasch 2012 - Alfentanil PO + efavirenz - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)",
       "ExtendedProperties": [
         {
           "Name": "DB Version",
@@ -2603,7 +2583,7 @@
         },
         {
           "Name": "Grouping",
-          "Value": "Alfenatil PO + efavirenz"
+          "Value": "Alfentanil PO + efavirenz"
         },
         {
           "Name": "Data type",
@@ -2662,7 +2642,7 @@
               "Name": "Var",
               "QuantityInfo": {
                 "Name": "Var",
-                "Path": "Kharasch 2012 - Alfenatil PO + efavirenz - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticStdDev"
+                "Path": "Kharasch 2012 - Alfentanil PO + efavirenz - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticStdDev"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -2691,7 +2671,7 @@
           ],
           "QuantityInfo": {
             "Name": "Avg",
-            "Path": "Kharasch 2012 - Alfenatil PO + efavirenz - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticMean"
+            "Path": "Kharasch 2012 - Alfentanil PO + efavirenz - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticMean"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -2722,7 +2702,7 @@
         "Name": "Time",
         "QuantityInfo": {
           "Name": "Time",
-          "Path": "Kharasch 2012 - Alfenatil PO + efavirenz - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)|Time",
+          "Path": "Kharasch 2012 - Alfentanil PO + efavirenz - Alfentanil - PO - 43 µg/kg - Plasma - agg. (n=12)|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -2750,7 +2730,7 @@
       }
     },
     {
-      "Name": "Kharasch 2012 - Alfenatil IV alone - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)",
+      "Name": "Kharasch 2012 - Alfentanil IV alone - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)",
       "ExtendedProperties": [
         {
           "Name": "DB Version",
@@ -2774,7 +2754,7 @@
         },
         {
           "Name": "Grouping",
-          "Value": "Alfenatil IV alone"
+          "Value": "Alfentanil IV alone"
         },
         {
           "Name": "Data type",
@@ -2833,7 +2813,7 @@
               "Name": "Var",
               "QuantityInfo": {
                 "Name": "Var",
-                "Path": "Kharasch 2012 - Alfenatil IV alone - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticStdDev"
+                "Path": "Kharasch 2012 - Alfentanil IV alone - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticStdDev"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -2865,7 +2845,7 @@
           ],
           "QuantityInfo": {
             "Name": "Avg",
-            "Path": "Kharasch 2012 - Alfenatil IV alone - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticMean"
+            "Path": "Kharasch 2012 - Alfentanil IV alone - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticMean"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -2899,7 +2879,7 @@
         "Name": "Time",
         "QuantityInfo": {
           "Name": "Time",
-          "Path": "Kharasch 2012 - Alfenatil IV alone - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)|Time",
+          "Path": "Kharasch 2012 - Alfentanil IV alone - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -2930,7 +2910,7 @@
       }
     },
     {
-      "Name": "Kharasch 2012 - Alfenatil IV + efavirenz - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)",
+      "Name": "Kharasch 2012 - Alfentanil IV + efavirenz - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)",
       "ExtendedProperties": [
         {
           "Name": "DB Version",
@@ -2954,7 +2934,7 @@
         },
         {
           "Name": "Grouping",
-          "Value": "Alfenatil IV + efavirenz"
+          "Value": "Alfentanil IV + efavirenz"
         },
         {
           "Name": "Data type",
@@ -3013,7 +2993,7 @@
               "Name": "Var",
               "QuantityInfo": {
                 "Name": "Var",
-                "Path": "Kharasch 2012 - Alfenatil IV + efavirenz - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticStdDev"
+                "Path": "Kharasch 2012 - Alfentanil IV + efavirenz - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticStdDev"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -3043,7 +3023,7 @@
           ],
           "QuantityInfo": {
             "Name": "Avg",
-            "Path": "Kharasch 2012 - Alfenatil IV + efavirenz - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticMean"
+            "Path": "Kharasch 2012 - Alfentanil IV + efavirenz - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticMean"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -3075,7 +3055,7 @@
         "Name": "Time",
         "QuantityInfo": {
           "Name": "Time",
-          "Path": "Kharasch 2012 - Alfenatil IV + efavirenz - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)|Time",
+          "Path": "Kharasch 2012 - Alfentanil IV + efavirenz - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)|Time",
           "Type": "Time"
         },
         "DataInfo": {
